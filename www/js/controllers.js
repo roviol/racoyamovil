@@ -29,12 +29,13 @@ angular.module('starter.controllers', [])
   ];*/
 }])
 
-.controller('PlaylistCtrl', ['$scope', '$stateParams', '$http',
+.controller('PlaylistCtrl', ['$scope', '$stateParams', '$http', 
   function($scope, $stateParams, $http) {
     $scope.playlistid=$stateParams.playlistId;
 
     $http.get('http://www.racoya.com/blog/wp-json/wp/v2/posts/'+$scope.playlistid).success(function(data) {
       $scope.playlista = data;
-      console.log("pasa2");
+      $scope.playtitulo = data.title.rendered;
+      console.log("pasa3");
     });
 }]);
