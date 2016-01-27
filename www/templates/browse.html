@@ -1,5 +1,60 @@
 <ion-view view-title="Convertir">
   <ion-content>
-    <h1>Medidas</h1>
+    <h3>Medidas</h3>
+<div class="list">
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Receta en
+    </div>
+    <select>
+      <option>cuchara(s)</option>
+      <option selected>kilo(s)</option>
+      <option>litro(s)</option>
+    </select>
+  </label>
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Receta en
+    </div>
+    <select>
+      <option ng-repeat="medida in equivalencias">{{ medida }}</option>
+    </select>
+  </label>
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Ingrediente
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Ingrediente
+    </div>
+    <select>
+      <option>agua</option>
+      <option selected>azucar</option>
+      <option>aceite</option>
+    </select>
+  </label>
+
+  <label class="item item-input item-select">
+    <div class="input-label">
+      Medir en
+    </div>
+    <select>
+      <option>cucharada(s)</option>
+      <option selected>kilo(s)</option>
+      <option>litro(s)</option>
+    </select>
+  </label>
+
+  <label class="item item-input ">
+      <input type="text" placeholder="Cantidad">
+  </label>
+  <label class="item item-input ">
+      <input type="text" placeholder="Cantidad">
+  </label>
+</div>  
+
   </ion-content>
 </ion-view>

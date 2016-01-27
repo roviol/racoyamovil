@@ -38,4 +38,12 @@ angular.module('starter.controllers', [])
       $scope.playtitulo = data.title.rendered;
       console.log("pasa3");
     });
+}])
+
+.controller('BrowserCtrl',  ['$scope', '$http',
+  function ($scope,$http)  {
+     $http.get('js/equivalencias.json').success(function(data) {
+        $scope.equivalencias = data;
+     });    
 }]);
+
