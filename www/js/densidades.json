@@ -1,0 +1,942 @@
+[
+    {
+        "densidad": 0.97, 
+        "id": 1, 
+        "label": "jengibre fresco"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 2, 
+        "label": "harina de centeno"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 3, 
+        "label": "copos de cereales"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 4, 
+        "label": "manzanas cortadas"
+    }, 
+    {
+        "densidad": 1.48, 
+        "id": 5, 
+        "label": "maltodextrina"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 6, 
+        "label": "coliflor"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 7, 
+        "label": "chalota"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 8, 
+        "label": "espagueti, crudos"
+    }, 
+    {
+        "densidad": 0.95, 
+        "id": 9, 
+        "label": "aceite de ricino"
+    }, 
+    {
+        "densidad": 1.03, 
+        "id": 10, 
+        "label": "leche"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 11, 
+        "label": "chocolate rallado"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 12, 
+        "label": "margarina"
+    }, 
+    {
+        "densidad": 0.49, 
+        "id": 13, 
+        "label": "mostaza en polvo"
+    }, 
+    {
+        "densidad": 0.81, 
+        "id": 14, 
+        "label": "az\u00facar granulado"
+    }, 
+    {
+        "densidad": 0.7, 
+        "id": 15, 
+        "label": "higo seco"
+    }, 
+    {
+        "densidad": 0.25, 
+        "id": 16, 
+        "label": "setas enteras"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 17, 
+        "label": "patata dulce, cruda"
+    }, 
+    {
+        "densidad": 0.25, 
+        "id": 18, 
+        "label": "miga de pan fresco"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 19, 
+        "label": "aceitunas picadas"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 20, 
+        "label": "espinaca cocida"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 21, 
+        "label": "apio, semillas"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 22, 
+        "label": "grano de trigo sarraceno"
+    }, 
+    {
+        "densidad": 0.57, 
+        "id": 23, 
+        "label": "granos de pimienta negra "
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 24, 
+        "label": "cebolla cortada en rodajas"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 25, 
+        "label": "yogur griego"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 26, 
+        "label": "queso cottage"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 27, 
+        "label": "anchoas"
+    }, 
+    {
+        "densidad": 0.47, 
+        "id": 28, 
+        "label": "anacardo salteado"
+    }, 
+    {
+        "densidad": 1, 
+        "id": 29, 
+        "label": "agua"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 30, 
+        "label": "fideos de huevo"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 31, 
+        "label": "mantequilla"
+    }, 
+    {
+        "densidad": 0.994, 
+        "id": 32, 
+        "label": "crema de leche"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 33, 
+        "label": "queso jack, rallado"
+    }, 
+    {
+        "densidad": 0.25, 
+        "id": 34, 
+        "label": "galletas, trozos"
+    }, 
+    {
+        "densidad": 0.17, 
+        "id": 35, 
+        "label": "brotes de azucena del tigre "
+    }, 
+    {
+        "densidad": 0.528, 
+        "id": 36, 
+        "label": "harina, EEUU"
+    }, 
+    {
+        "densidad": 0.61, 
+        "id": 37, 
+        "label": "ma\u00edz, dulce, amarillo"
+    }, 
+    {
+        "densidad": 1.0365, 
+        "id": 38, 
+        "label": "yogur"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 39, 
+        "label": "aj\u00ed, picado"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 40, 
+        "label": "mayonesa"
+    }, 
+    {
+        "densidad": 0.59, 
+        "id": 41, 
+        "label": "curcuma molida "
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 42, 
+        "label": "levadura"
+    }, 
+    {
+        "densidad": 0.87, 
+        "id": 43, 
+        "label": "bicarbonato de sodio"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 44, 
+        "label": "s\u00e9samo, semillas"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 45, 
+        "label": "guisantes triturados"
+    }, 
+    {
+        "densidad": 0.89, 
+        "id": 46, 
+        "label": "arroz crudo"
+    }, 
+    {
+        "densidad": 0.638, 
+        "id": 47, 
+        "label": "levadura natural, instant\u00e1nea, seca"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 48, 
+        "label": "harina de patata"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 49, 
+        "label": "mostaza, semilla"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 50, 
+        "label": "calabaza cocida"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 51, 
+        "label": "sultana"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 52, 
+        "label": "miga de pan de molde"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 53, 
+        "label": "canela molida"
+    }, 
+    {
+        "densidad": 0.49, 
+        "id": 54, 
+        "label": "pimiento rojo"
+    }, 
+    {
+        "densidad": 0.78, 
+        "id": 55, 
+        "label": "cebada cruda"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 56, 
+        "label": "cebolla triturada"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 57, 
+        "label": "queso blando (crema)"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 58, 
+        "label": "arroz cocido al vapor"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 59, 
+        "label": "cacahuate triturado"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 60, 
+        "label": "pl\u00e1tanos triturados"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 61, 
+        "label": "albaricoque seco"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 62, 
+        "label": "lenteja"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 63, 
+        "label": "c\u00e1scara de naranja, rallada"
+    }, 
+    {
+        "densidad": 0.49, 
+        "id": 64, 
+        "label": "leche entera"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 65, 
+        "label": "c\u00e1scara de lim\u00f3n, rallada"
+    }, 
+    {
+        "densidad": 1.44, 
+        "id": 66, 
+        "label": "miel"
+    }, 
+    {
+        "densidad": 0.52, 
+        "id": 67, 
+        "label": "queso, ricota"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 68, 
+        "label": "harina de trigo"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 69, 
+        "label": "masa de bizcocho"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 70, 
+        "label": "patata cocida, cubos"
+    }, 
+    {
+        "densidad": 0.36, 
+        "id": 71, 
+        "label": "almendra molida"
+    }, 
+    {
+        "densidad": 1.44, 
+        "id": 72, 
+        "label": "repollo picado"
+    }, 
+    {
+        "densidad": 0.32, 
+        "id": 73, 
+        "label": "t\u00e9"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 74, 
+        "label": "ajo"
+    }, 
+    {
+        "densidad": 0.49, 
+        "id": 75, 
+        "label": "macarrones, pasta"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 76, 
+        "label": "guisantes, crudos"
+    }, 
+    {
+        "densidad": 0.17, 
+        "id": 77, 
+        "label": "perejil fresco"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 78, 
+        "label": "chocolate, trozos"
+    }, 
+    {
+        "densidad": 0.74, 
+        "id": 79, 
+        "label": "granos de s\u00e9mola"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 80, 
+        "label": "tomatos picados"
+    }, 
+    {
+        "densidad": 0.91, 
+        "id": 81, 
+        "label": "aceite de oliva"
+    }, 
+    {
+        "densidad": 1.48, 
+        "id": 82, 
+        "label": "jarabe de ma\u00edz"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 83, 
+        "label": "cacahuate salteado"
+    }, 
+    {
+        "densidad": 0.4, 
+        "id": 84, 
+        "label": "clavo molido"
+    }, 
+    {
+        "densidad": 0.21, 
+        "id": 85, 
+        "label": "cebolla verde"
+    }, 
+    {
+        "densidad": 0.23, 
+        "id": 86, 
+        "label": "caf\u00e9 soluble"
+    }, 
+    {
+        "densidad": 0.21, 
+        "id": 87, 
+        "label": "ajo cortado, fresco"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 88, 
+        "label": "leche condensada"
+    }, 
+    {
+        "densidad": 0.57, 
+        "id": 89, 
+        "label": "lim\u00f3n confitado"
+    }, 
+    {
+        "densidad": 0.36, 
+        "id": 90, 
+        "label": "nueces molidas"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 91, 
+        "label": "especias, condimento"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 92, 
+        "label": "nuez pec\u00e1n, triturado"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 93, 
+        "label": "aceite de cacauhete"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 94, 
+        "label": "avena"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 95, 
+        "label": "huevos batidos"
+    }, 
+    {
+        "densidad": 0.407, 
+        "id": 96, 
+        "label": "harina de almendras"
+    }, 
+    {
+        "densidad": 0.97, 
+        "id": 97, 
+        "label": "carne de vaca, cocido"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 98, 
+        "label": "jengibre, granulado"
+    }, 
+    {
+        "densidad": 1.14, 
+        "id": 99, 
+        "label": "yema de huevo"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 100, 
+        "label": "az\u00facar de confiter\u00eda"
+    }, 
+    {
+        "densidad": 0.47, 
+        "id": 101, 
+        "label": "queso colby, rallado"
+    }, 
+    {
+        "densidad": 0.32, 
+        "id": 102, 
+        "label": "setas picadas"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 103, 
+        "label": "harina para cocci\u00f3n"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 104, 
+        "label": "almid\u00f3n"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 105, 
+        "label": "chocolate l\u00edquido"
+    }, 
+    {
+        "densidad": 0.53, 
+        "id": 106, 
+        "label": "germen de trigo"
+    }, 
+    {
+        "densidad": 0.34, 
+        "id": 107, 
+        "label": "copos de avena"
+    }, 
+    {
+        "densidad": 0.89, 
+        "id": 108, 
+        "label": "aceite vegetal"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 109, 
+        "label": "carne de vaca, crudo"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 110, 
+        "label": "sal"
+    }, 
+    {
+        "densidad": 0.34, 
+        "id": 111, 
+        "label": "avena pelada, cruda"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 112, 
+        "label": "papilla"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 113, 
+        "label": "queso Cheddar, rallado"
+    }, 
+    {
+        "densidad": 0.481, 
+        "id": 114, 
+        "label": "suero de leche, seca"
+    }, 
+    {
+        "densidad": 0.21, 
+        "id": 115, 
+        "label": "zefir (dulce ruso parecido a malvavisco), peque\u00f1os"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 116, 
+        "label": "cebolla picada"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 117, 
+        "label": "salo (tocino de espalda del cerdo)"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 118, 
+        "label": "margarina s\u00f3lida"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 119, 
+        "label": "harina de habas"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 120, 
+        "label": "barquillos de vainilla, molidos"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 121, 
+        "label": "clavo entero"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 122, 
+        "label": "clara de huevo"
+    }, 
+    {
+        "densidad": 0.53, 
+        "id": 123, 
+        "label": "pi\u00f1on"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 124, 
+        "label": "harina de ma\u00edz, fina"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 125, 
+        "label": "queso parmesano, rallado"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 126, 
+        "label": "ajo triturado"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 127, 
+        "label": "avellana entera"
+    }, 
+    {
+        "densidad": 0.89, 
+        "id": 128, 
+        "label": "pur\u00e9 de patata"
+    }, 
+    {
+        "densidad": 0.23, 
+        "id": 129, 
+        "label": "salvado, crudo"
+    }, 
+    {
+        "densidad": 1.02, 
+        "id": 130, 
+        "label": "patata dulce, cocida"
+    }, 
+    {
+        "densidad": 0.47, 
+        "id": 131, 
+        "label": "cacao en polvo"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 132, 
+        "label": "jengibre molido"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 133, 
+        "label": "d\u00e1til picado"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 134, 
+        "label": "gelatina"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 135, 
+        "label": "almendra entera"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 136, 
+        "label": "harina de ma\u00eds, azul"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 137, 
+        "label": "habas secas"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 138, 
+        "label": "harina tamizada, EEUU"
+    }, 
+    {
+        "densidad": 0.11, 
+        "id": 139, 
+        "label": "albahaca seca"
+    }, 
+    {
+        "densidad": 0.28, 
+        "id": 140, 
+        "label": "setas cortadas en rodajas"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 141, 
+        "label": "tocido"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 142, 
+        "label": "patata, rodajas, crudo"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 143, 
+        "label": "galletas, migajas"
+    }, 
+    {
+        "densidad": 0.68, 
+        "id": 144, 
+        "label": "mermelada"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 145, 
+        "label": "harina de trigo para hacer pan"
+    }, 
+    {
+        "densidad": 0.92, 
+        "id": 146, 
+        "label": "manteca de cacauhetes (l\u00edquida)"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 147, 
+        "label": "hongo de \u00e1rbol"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 148, 
+        "label": "manzanas secas"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 149, 
+        "label": "pl\u00e1tanos cortados"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 150, 
+        "label": "harina, Deaf Smith"
+    }, 
+    {
+        "densidad": 1.14, 
+        "id": 151, 
+        "label": "reto\u00f1os de bamb\u00fa"
+    }, 
+    {
+        "densidad": 0.92, 
+        "id": 152, 
+        "label": "aceite de palma"
+    }, 
+    {
+        "densidad": 0.93, 
+        "id": 153, 
+        "label": "az\u00facar moreno, lleno"
+    }, 
+    {
+        "densidad": 0.85, 
+        "id": 154, 
+        "label": "at\u00fan en conserva"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 155, 
+        "label": "caf\u00e9 molido"
+    }, 
+    {
+        "densidad": 0.53, 
+        "id": 156, 
+        "label": "naranja confitada"
+    }, 
+    {
+        "densidad": 0.89, 
+        "id": 157, 
+        "label": "margarina fundida"
+    }, 
+    {
+        "densidad": 0.72, 
+        "id": 158, 
+        "label": "harina de sarraceno"
+    }, 
+    {
+        "densidad": 1.0356, 
+        "id": 159, 
+        "label": "suero de leche"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 160, 
+        "label": "nuez pec\u00e1n, molido"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 161, 
+        "label": "pasas"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 162, 
+        "label": "harina de ma\u00edz"
+    }, 
+    {
+        "densidad": 0.61, 
+        "id": 163, 
+        "label": "az\u00facar moreno, desempaquetado"
+    }, 
+    {
+        "densidad": 1.137, 
+        "id": 164, 
+        "label": "extracto de vainilla"
+    }, 
+    {
+        "densidad": 0.38, 
+        "id": 165, 
+        "label": "bizcochos, migas frescas"
+    }, 
+    {
+        "densidad": 0.95, 
+        "id": 166, 
+        "label": "harina de amaranto"
+    }, 
+    {
+        "densidad": 1.06, 
+        "id": 167, 
+        "label": "mostaza preparada"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 168, 
+        "label": "nuez pec\u00e1n, pelado"
+    }, 
+    {
+        "densidad": 0.49, 
+        "id": 169, 
+        "label": "nueces desmenuzadas"
+    }, 
+    {
+        "densidad": 0.32, 
+        "id": 170, 
+        "label": "coco picado"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 171, 
+        "label": "harina de arroz"
+    }, 
+    {
+        "densidad": 0.76, 
+        "id": 172, 
+        "label": "papilla de s\u00e9mola"
+    }, 
+    {
+        "densidad": 0.51, 
+        "id": 173, 
+        "label": "nueces pelaas"
+    }, 
+    {
+        "densidad": 0.61, 
+        "id": 174, 
+        "label": "arroz silvestre"
+    }, 
+    {
+        "densidad": 0.55, 
+        "id": 175, 
+        "label": "az\u00facar lustre"
+    }, 
+    {
+        "densidad": 0.47, 
+        "id": 176, 
+        "label": "harina inglesa con levadura incorporada"
+    }, 
+    {
+        "densidad": 0.03, 
+        "id": 177, 
+        "label": "ajo picado, seco"
+    }, 
+    {
+        "densidad": 0.57, 
+        "id": 178, 
+        "label": "semillas de amapola"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 179, 
+        "label": "granos de pimienta blanca"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 180, 
+        "label": "grosella"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 181, 
+        "label": "fresa"
+    }, 
+    {
+        "densidad": 0.81, 
+        "id": 182, 
+        "label": "az\u00facar cristalizado"
+    }, 
+    {
+        "densidad": 0.09, 
+        "id": 183, 
+        "label": "copos de arroz"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 184, 
+        "label": "nuez de Brasil, entero"
+    }, 
+    {
+        "densidad": 0.21, 
+        "id": 185, 
+        "label": "setas negras, chinas"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 186, 
+        "label": "ar\u00e1ndano rojo"
+    }, 
+    {
+        "densidad": 0.64, 
+        "id": 187, 
+        "label": "salsa t\u00e1rtara"
+    }, 
+    {
+        "densidad": 0.42, 
+        "id": 188, 
+        "label": "okra, crudo"
+    }
+]
