@@ -3,11 +3,18 @@
     <h3>Medidas</h3>
 <div class="list">
 
+  <label class="item item-input ">
+    <div class="input-label">
+      Cantidad
+    </div>
+      <input type="number" placeholder="Cantidad" ng-model="cantidad" ng-change="update(unisel, uniseldest, densel, cantidad)" >
+  </label>
+
   <label class="item item-input item-select">
     <div class="input-label">
       Receta en
     </div>
-    <select ng-options="item as item.label for item in unidades track by item.id" ng-model="unisel" ng-change="update()">
+    <select ng-options="item as item.label for item in unidades track by item.id" ng-model="unisel" ng-change="update(unisel, uniseldest, densel, cantidad)">
     </select>
   </label>
 
@@ -15,7 +22,7 @@
     <div class="input-label">
       Ingrediente
     </div>
-    <select ng-options="item as item.label for item in densidades track by item.id" ng-model="densel">
+    <select ng-options="item as item.label for item in densidades track by item.id" ng-model="densel" ng-change="update(unisel, uniseldest, densel, cantidad)">
     </select>
   </label>
 
@@ -23,24 +30,17 @@
     <div class="input-label">
       Medir en
     </div>
-    <select ng-options="item as item.label for item in unidades track by item.id" ng-model="uniseldest">
+    <select ng-options="item as item.label for item in unidades track by item.id" ng-model="uniseldest" ng-change="update(unisel, uniseldest, densel, cantidad)">
     </select>
   </label>
 
-  <label class="item item-input ">
-    <div class="input-label">
-      Cantidad
-    </div>
-      <input type="text" placeholder="Cantidad" ng-model="cantidad">
-  </label>
-  <button class="btn" ng-click="update()">Actualizar</button>
+
   <label class="item item-input ">
     <div class="input-label">
       Resultado
     </div>
       {{ resultado }}
-      {{ unisel.label }}
-      {{ cantidad }}
+      {{ uniseldest.label }}
   </label>
 </div>  
   </ion-content>

@@ -58,12 +58,15 @@ angular.module('starter.controllers', [])
      $scope.cantidad = 1;
      console.log("pasa4a");
 
-     $scope.update = function() {
-         $scope.resultado = $scope.cantidad * $scope.densel.densidad;
-         factor=$scope.equivalencias[$scope.unisel.id][$scope.uniseldest.id];
-         console.log($scope.unisel.id);
-         console.log($scope.uniseldest.id);
+     $scope.update = function(uniselp, uniseldestp, denselp, cantidadp) {
+         
+         console.log(uniselp.id);
+         console.log(uniseldestp.id);
+         console.log(denselp.densidad);
          console.log(factor);
+         var factor=$scope.equivalencias[uniselp.id][uniseldestp.id];
+         factor = factor || 1;
+         $scope.resultado = cantidadp * denselp.densidad * factor;
      }
 }]);
  

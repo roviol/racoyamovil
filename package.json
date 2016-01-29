@@ -1,7 +1,7 @@
 {
   "name": "racoyamovil",
   "version": "1.1.1",
-  "description": "racoyamovil: An Ionic project",
+  "description": "racoyamovil: Articulos y convertidor",
   "dependencies": {
     "gulp": "^3.5.6",
     "gulp-sass": "^2.0.4",
